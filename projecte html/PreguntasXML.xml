@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE questions>
-<questions>
+<questions  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntasValidación.xsd">
 	<question id="p01">
-		<type>text</type>
+		<type>radio</type>
 		<title>
 		1.- ¿Qué rio separa Francia y Alemania?
 		</title>
-		<option>
-		a) Guadalquivir
-		</option>
-		<option>
-		b) Miño
-		</option>
-		<option>
-		c) Nilo
-		</option>
-		<option>
-		d) Rin
-		</option>
+    <option>a)Nilo</option>
+		<option>b)Guadalquivir</option>
+		<option>c)Tajo</option>
+		<option>d)Rin</option>
 		<answer>4</answer>
 	</question>
 	<question id="p02">
