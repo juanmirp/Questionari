@@ -6,10 +6,10 @@
 		<title>
 		1.- ¿Qué rio separa Francia y Alemania?
 		</title>
-    <option>a)Nilo</option>
-		<option>b)Guadalquivir</option>
-		<option>c)Tajo</option>
-		<option>d)Rin</option>
+                <option>Nilo</option>
+		<option>Guadalquivir</option>
+		<option>Tajo</option>
+		<option>Rin</option>
 		<answer>4</answer>
 	</question>
 	<question id="p02">
