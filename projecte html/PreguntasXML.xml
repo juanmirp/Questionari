@@ -24,10 +24,10 @@
 		<title>
 		3.- ¿Cuantas islas tiene el Archipielago Canario?
 		</title>
-		<option>a) 3</option>
-		<option>b) 5</option>
-		<option>c) 8</option>
-		<option>d) 7</option>
+		<option> 3</option>
+		<option> 5</option>
+		<option> 8</option>
+		<option> 7</option>
 		<answer>4</answer>
 	</question>
 	<question id="p04">
@@ -35,10 +35,10 @@
 		<title>
 		4.- ¿Cuál es la tercera ciudad más poblada de España?
 		</title>
-		<option>a) Zaragoza</option>
-		<option>b) Sevilla</option>
-		<option>c) Valencia</option>
-		<option>d) Bilbao</option>
+		<option> Zaragoza</option>
+		<option> Sevilla</option>
+		<option> Valencia</option>
+		<option> Bilbao</option>
 		<answer>3</answer>
 	</question>
 	<question id="p05">
@@ -46,10 +46,10 @@
 		<title>
 		5.- ¿Con qué paises hace frontera España?
 		</title>
-		<option>a) Portugal</option>
-		<option>b) Alemania</option>
-		<option>c) Francia</option>
-		<option>d) Andorra</option>
+		<option> Portugal</option>
+		<option> Alemania</option>
+		<option> Francia</option>
+		<option> Andorra</option>
 		<answer>1</answer>
 		<answer>3</answer>
 		<answer>4</answer>
@@ -66,10 +66,10 @@
 		<title>
 		7.- ¿Cuáles de estos paises pertenecen a la Union Europea?
 		</title>
-		<option>a) España</option>
-		<option>b) Bulgaria</option>
-		<option>c) Alemania</option>
-		<option>d) Canada</option>
+		<option> España</option>
+		<option> Bulgaria</option>
+		<option> Alemania</option>
+		<option> Canada</option>
 		<answer>1</answer>
 		<answer>2</answer>
 		<answer>3</answer>
@@ -80,16 +80,16 @@
 		8.- ¿Cuál es la capital de Alemania?
 		</title>
 		<option>
-		a) Berlín
+		 Berlín
 		</option>
 		<option>
-		b) Madrid
+		 Madrid
 		</option>
 		<option>
-		c) Hamburgo
+		 Hamburgo
 		</option>
 		<option>
-		d) Leibzig
+		 Leibzig
 		</option>
 		<answer>1</answer>
 	</question>
@@ -98,10 +98,10 @@
 		<title>
 		9.- ¿Cuántos rios tiene Mallorca?
 		</title>
-		<option>a) 1</option>
-		<option>b) 5</option>
-		<option>c) 15</option>
-		<option>d) 0</option>
+		<option> 1</option>
+		<option> 5</option>
+		<option> 15</option>
+		<option> 0</option>
 		<answer>4</answer>
 	</question>
 	<question id="p10">
@@ -109,10 +109,10 @@
 		<title>
 		10.- ¿En que año fue 1+1?
 		</title>
-		<option>a) 3</option>
-		<option>b) El fantástico Ralph</option>
-		<option>c) 8</option>
-		<option>d) Azul</option>
+		<option> 3</option>
+		<option> El fantástico Ralph</option>
+		<option> 8</option>
+		<option> Azul</option>
 		<answer>2</answer>
 	</question>
 </questions>
