@@ -17,7 +17,7 @@
 		<title>
 		2.- ¿Es verdad que en España viven más de 45 millones de personas?
 		</title>
-		<answer>Si</answer>
+		<answer>si</answer>
 	</question>
 	<question id="p03">
 		<type>checkbox</type>
@@ -59,7 +59,7 @@
 		<title>
 		6.- ¿Sofia es la capital de Rumania?
 		</title>
-		<answer>No</answer>
+		<answer>no</answer>
 	</question>
 	<question id="p07">
 		<type>multiple</type>
