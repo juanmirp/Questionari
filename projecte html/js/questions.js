@@ -48,6 +48,7 @@ window.onload = function(){
  };
  xhttp.open("GET","https://rawgit.com/juanmirp/Questionari/master/projecte%20html/xml/PreguntasXML.xml", true);
 xhttp.send();
+	
 }
 
 
